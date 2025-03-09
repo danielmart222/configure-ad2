@@ -14,6 +14,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Remote Desktop
 - Active Directory Domain Services
 - PowerShell
+- Command Prompt
 
 <h2>Operating Systems Used </h2>
 
