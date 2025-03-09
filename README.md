@@ -3,7 +3,7 @@
 </p>
 
 <h1>On-premises Active Directory Deployed in the Cloud (Azure) Part 3 and 4 </h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+This tutorial covers how to set up remote desktop access for non-administrative users on a desktop. It includes the use of PowerShell ISE to create 1,000 users with a script for logging into a domain-joined desktop. Configuration of group policy to lock out user accounts and update immediately using commands will be discussed. Instructions for unlocking accounts, resetting passwords, enabling, and disabling accounts will also be provided.<br />
 
 
 
@@ -30,7 +30,6 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h1>Part 3 - Creating users with powershell </h1>
 
-<h2> Creating users with powershell </h2>
 
 ------------
 
