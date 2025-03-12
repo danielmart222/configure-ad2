@@ -136,7 +136,7 @@ This tutorial covers how to set up remote desktop access for non-administrative 
 
 
 
-<h1>Part 3 - Group Policy and Managing Accounts </h1>
+<h1>Part 4 - Group Policy and Managing Accounts </h1>
 
 <h2>  Group Policy and Managing Accounts </h2>
 
