@@ -145,6 +145,11 @@ This tutorial covers how to set up remote desktop access for non-administrative 
 <h2> Step 1: Configure Group Policy to Lockout the account after 5 attempts </h2>
 
 
+-----------
+
+- Right click the Start menu button -> Click on run
+
+
 ---------------
 
 ![image](https://github.com/user-attachments/assets/7237bf26-4e5b-4e1f-9e7b-330d13dd9f99)
@@ -157,7 +162,7 @@ This tutorial covers how to set up remote desktop access for non-administrative 
 
 --------------
 
-![image](https://github.com/user-attachments/assets/33cc7d32-f2de-48ae-8273-48bdec3f01e5)
+![image](https://github.com/user-attachments/assets/3b2d6e4e-bc25-49d4-9839-a5ef48631495)
 
 
 ----------
@@ -174,7 +179,7 @@ This tutorial covers how to set up remote desktop access for non-administrative 
 
 --------------
 
-- Click on Account lock out duration -> Set account lock out duration to 30 mins -> Click on apply and ok
+- Click on Account lockout duration -> Set account lockout duration to 30 mins -> Click on apply and ok
 
 -----------
 
@@ -184,7 +189,7 @@ This tutorial covers how to set up remote desktop access for non-administrative 
 ---------
 
 
-- Click on Account lock out Threshold  -> Set account lock out Threshold to  5 invalid logon attempts -> Click on apply and ok 
+- Click on Account lockout Threshold  -> Set account lockout Threshold to  5 invalid logon attempts -> Click on apply and ok 
 
 
 -----------
