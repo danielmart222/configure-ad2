@@ -47,7 +47,7 @@ This tutorial covers how to set up remote desktop access for non-administrative 
 
 -----
 
-![image](https://github.com/user-attachments/assets/ca14a56b-82cd-49ec-97a9-2bd08e90acc5)
+![image](https://github.com/user-attachments/assets/124a3b14-409f-4292-b4eb-4e52e73362fd)
 
 ---------------
 
@@ -57,7 +57,8 @@ This tutorial covers how to set up remote desktop access for non-administrative 
 
 
 
-![image](https://github.com/user-attachments/assets/8e838e39-c7ea-4797-a8f2-dbd8b85b1a28)
+![image](https://github.com/user-attachments/assets/f63e0683-b5c7-4282-ac8c-56719eae40ea)
+
 
 
 ----------
@@ -73,7 +74,8 @@ This tutorial covers how to set up remote desktop access for non-administrative 
 ---------
 
 
-![image](https://github.com/user-attachments/assets/d9fb0b0a-e414-4c91-9a90-736f52790b04)
+![image](https://github.com/user-attachments/assets/1b4dbf99-6c28-4a1c-9c5d-25906c068e40)
+
 
 
 -----------
@@ -86,8 +88,7 @@ This tutorial covers how to set up remote desktop access for non-administrative 
 ------------
 
 
-![image](https://github.com/user-attachments/assets/47eaa5ef-b936-4c17-b781-b3a02a53482c)
-
+![image](https://github.com/user-attachments/assets/a64663bc-40c1-438b-a38b-15cdb0272d3f)
 
 
 -----------
@@ -99,7 +100,7 @@ This tutorial covers how to set up remote desktop access for non-administrative 
 
 --------
 
-![image](https://github.com/user-attachments/assets/4997b04d-af38-4eea-969e-86a6064c7e22)
+![image](https://github.com/user-attachments/assets/101ed999-fc08-4289-ad57-5225c1c85ccd)
 
 
 ----------
@@ -115,7 +116,8 @@ This tutorial covers how to set up remote desktop access for non-administrative 
 
 -----------
 
-![image](https://github.com/user-attachments/assets/982832d2-0147-476a-bc63-be23c0d111fa)
+![image](https://github.com/user-attachments/assets/9fc72c6b-34af-40af-9e5b-e30add228c86)
+
 
 -----------
 
@@ -123,7 +125,7 @@ This tutorial covers how to set up remote desktop access for non-administrative 
 
 ---------
 
-![image](https://github.com/user-attachments/assets/061bdb6f-542b-4f20-9d2b-803c3fa124c2)
+![image](https://github.com/user-attachments/assets/85e5e5f1-1952-4902-889c-4e7139e4d52b)
 
 
 -------------
@@ -155,7 +157,8 @@ This tutorial covers how to set up remote desktop access for non-administrative 
 
 --------------
 
-![image](https://github.com/user-attachments/assets/7b3236b9-975c-49b9-95b0-6cf6ab197c55)
+![image](https://github.com/user-attachments/assets/33cc7d32-f2de-48ae-8273-48bdec3f01e5)
+
 
 ----------
 
@@ -165,7 +168,8 @@ This tutorial covers how to set up remote desktop access for non-administrative 
 ------------
 
 
-![image](https://github.com/user-attachments/assets/898cffda-759e-47cf-a0a5-bedfc3e61022)
+![image](https://github.com/user-attachments/assets/d19e41f9-990f-4f5d-8dee-4f396cd18e10)
+
 
 
 --------------
@@ -174,7 +178,8 @@ This tutorial covers how to set up remote desktop access for non-administrative 
 
 -----------
 
-![image](https://github.com/user-attachments/assets/d2196705-4e62-41c1-bffb-1ff2604009c8)
+![image](https://github.com/user-attachments/assets/c6347c7d-e7c2-48f6-beb7-fa265f47cd80)
+
 
 ---------
 
@@ -185,7 +190,8 @@ This tutorial covers how to set up remote desktop access for non-administrative 
 -----------
 
 
-![image](https://github.com/user-attachments/assets/9e537167-cda8-4112-8e66-ec02c7acf393)
+![image](https://github.com/user-attachments/assets/e8c172f2-1c17-4c21-8db0-76588e5fb4fa)
+
 
 --------------
 
@@ -194,7 +200,7 @@ This tutorial covers how to set up remote desktop access for non-administrative 
 
 --------------
 
-![image](https://github.com/user-attachments/assets/3d5efbc0-3e34-4383-ad01-4f522dfe3808)
+![image](https://github.com/user-attachments/assets/b4dee952-0078-4f33-84d2-511cf37e6d6f)
 
 ----------
 
@@ -203,7 +209,8 @@ This tutorial covers how to set up remote desktop access for non-administrative 
 
 ----------
 
-![image](https://github.com/user-attachments/assets/2648cff9-41bd-4a76-a994-ebadbf20541b)
+![image](https://github.com/user-attachments/assets/dae868a9-ca65-430d-8754-bdf25cd251b5)
+
 
 -----------
 
@@ -213,7 +220,8 @@ This tutorial covers how to set up remote desktop access for non-administrative 
 --------------
 
 
-![image](https://github.com/user-attachments/assets/f473ee5e-6458-4cd9-9bb1-bb84b0562655)
+![image](https://github.com/user-attachments/assets/a78b3519-8105-4700-a29c-961617fe8993)
+
 
 ----------
 
@@ -222,7 +230,8 @@ This tutorial covers how to set up remote desktop access for non-administrative 
 
 -----------
 
-![image](https://github.com/user-attachments/assets/a1d8efc3-4f84-4657-b637-a3b4de6ee2ad)
+![image](https://github.com/user-attachments/assets/4c7fd237-cb36-4bde-bea3-dc6ba5361b43)
+
 
 
 ------------
@@ -238,7 +247,8 @@ This tutorial covers how to set up remote desktop access for non-administrative 
 
 
 
-![image](https://github.com/user-attachments/assets/81fdf90a-caae-4df0-8596-8008500fe8f0)
+![image](https://github.com/user-attachments/assets/c1ad7241-ef54-4249-94a2-8eac6662337c)
+
 
 
 -------------
@@ -247,7 +257,8 @@ This tutorial covers how to set up remote desktop access for non-administrative 
 
 -----------
 
-![image](https://github.com/user-attachments/assets/4f0423c0-a13d-49bf-9802-ab506154e995)
+![image](https://github.com/user-attachments/assets/3b0baf03-94f3-41b6-9b01-575d326ffea6)
+
 
 -------------
 
@@ -264,7 +275,8 @@ This tutorial covers how to set up remote desktop access for non-administrative 
 -------
 
 
-![image](https://github.com/user-attachments/assets/bf744900-42e4-4060-a32c-f0cc28eaf6d6)
+![image](https://github.com/user-attachments/assets/ddbaa839-0ff9-4d6b-a7bd-beb50bb1043b)
+
 
 ----------
 
@@ -274,7 +286,8 @@ This tutorial covers how to set up remote desktop access for non-administrative 
 
 ----------------
 
-![image](https://github.com/user-attachments/assets/38319c7e-8eb9-45e9-b02f-a46b1abe6c9d)
+![image](https://github.com/user-attachments/assets/c2a840fd-2ac0-480e-a834-8e7395c30d70)
+
 
 -----------
 
@@ -300,7 +313,7 @@ This tutorial covers how to set up remote desktop access for non-administrative 
 
 -----------
 
-![image](https://github.com/user-attachments/assets/5dabe3a6-dd5a-4a46-a00b-53562509af9c)
+![image](https://github.com/user-attachments/assets/cff8a9a2-2ced-4225-ac45-e241bfd78376)
 
 
 ------------
@@ -310,7 +323,8 @@ This tutorial covers how to set up remote desktop access for non-administrative 
 ----------
 
 
-![image](https://github.com/user-attachments/assets/96145212-725b-4a16-88b9-62af62d80cad)
+![image](https://github.com/user-attachments/assets/3febab47-73ff-44a3-a856-6b0af4df2d43)
+
 
 
 --------------
@@ -327,8 +341,8 @@ This tutorial covers how to set up remote desktop access for non-administrative 
 ---------
 
 
+![image](https://github.com/user-attachments/assets/bc453c34-f0bf-47b2-a572-e46ea25f36da)
 
-![image](https://github.com/user-attachments/assets/98a88cd6-dd17-4ee3-8bba-14ec9d770838)
 
 ---------
 
@@ -338,7 +352,8 @@ This tutorial covers how to set up remote desktop access for non-administrative 
 
 
 
-![image](https://github.com/user-attachments/assets/61ff2bf7-9956-4ad5-894e-345da193fcd0)
+![image](https://github.com/user-attachments/assets/6ce9aae4-9320-4356-ab51-0e87b4487bed)
+
 
 
 --------------
@@ -348,7 +363,8 @@ This tutorial covers how to set up remote desktop access for non-administrative 
 ------------
 
 
-![image](https://github.com/user-attachments/assets/93b7fc94-410a-4cec-b573-a96ba3357e6a)
+![image](https://github.com/user-attachments/assets/5d7442aa-8596-4179-b459-f067035d4f70)
+
 
 
 -------------
@@ -358,7 +374,8 @@ This tutorial covers how to set up remote desktop access for non-administrative 
 -------------
 
 
-![image](https://github.com/user-attachments/assets/1dcd8c60-010f-40dd-bcf6-a3584fec2404)
+![image](https://github.com/user-attachments/assets/38c25569-3bd2-4501-a5cb-4b1c0e4822f4)
+
 
 -----------------
 
@@ -367,7 +384,8 @@ This tutorial covers how to set up remote desktop access for non-administrative 
 --------------
 
 
-![image](https://github.com/user-attachments/assets/7a8dd51d-74f8-49a4-b2d7-775a59618e54)
+![image](https://github.com/user-attachments/assets/3e030ed4-0eb7-4abd-b759-1be52031bb79)
+
 
 
 -------------
@@ -378,11 +396,12 @@ This tutorial covers how to set up remote desktop access for non-administrative 
 
 ------------
 
-![image](https://github.com/user-attachments/assets/c947069b-e5f4-4d89-b231-9501e44c6be1)
+![image](https://github.com/user-attachments/assets/95b67155-fd11-46a2-a2db-825180cf550a)
 
 
 ----------------------
 
-![image](https://github.com/user-attachments/assets/82b5e56d-e97a-4c2c-8176-210eb8cd705e)
+![image](https://github.com/user-attachments/assets/dd9e824d-1f6d-46c7-80c8-8f7306b090e1)
+
 
 
